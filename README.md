@@ -18,8 +18,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI para an�
   - Gráficos de tendência e evolução do faturamento (2014-2019).
   - Controle de veículos por categoria e status de cadastro.
 
-![Controle de Veículos](![image](https://github.com/user-attachments/assets/c3a08866-34be-4e71-a9e4-5d37a899feb5)
-)
+![Controle de Veículos](./assets/dashCarros.png)
 
 - **Detalhamento de Dados**:
   - Listagem de clientes cadastrados e não cadastrados.
@@ -27,8 +26,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI para an�
 
 ## Gráfico de Tendências
 
-![Gráfico de Tendências](![image](https://github.com/user-attachments/assets/f6cc9d66-6dd2-41c0-a5d7-b3e0820b897a)
-)
+![Gráfico de Tendências](./assets/dashPrevisao.png)
 
 ## Ferramentas Utilizadas
 - **Microsoft Power BI**: Construção do dashboard e visualizações interativas.
