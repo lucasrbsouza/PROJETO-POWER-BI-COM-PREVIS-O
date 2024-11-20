@@ -5,8 +5,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI para an√
 
 ## Vis√£o Geral do Dashboard
 
-![Dashboard Geral]
-(![image](./assets/dashCarros.png)
+![Dashboard Geral](./assets/dashCarros.png)
 
 ## Principais Funcionalidades
 - **Indicadores Chave**:
